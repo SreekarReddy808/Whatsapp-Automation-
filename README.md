@@ -1,8 +1,5 @@
 # Whatsapp-Automation-
 
-
-# WhatsApp Automation Bot (Python)
-
 ## Overview
 This project is a Python-based automation bot that sends scheduled WhatsApp messages using WhatsApp Web.
 
