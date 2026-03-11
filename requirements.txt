@@ -1,0 +1,7 @@
+pywhatkit
+selenium
+schedule
+
+Install dependencies:
+
+pip install -r requirements.txt
